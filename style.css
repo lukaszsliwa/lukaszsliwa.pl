@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+body {
+	background: #fbfbfb;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #032d3a;
+	font-weight: 300;
+}
+.motto {
+    text-align: center;
+    font-family: Palatino;
+    font-style: italic;
+}
+a {
+	color: #005683;
+	font-weight: 400;
+}
+em {
+	font-family: Palatino;
+	font-size: 1.2em;
+	padding: 0 3px;
+}
+.info {
+	width: 630px;
+	margin: 50px auto;
+}
+h1 {
+	text-align: center;
+	font-family: Palatino;
+}
+sup a {
+	text-decoration: none;
+	position: relative;
+	color: #3e8198;
+	font-size: 1.5em;
+	bottom: -6px;
+}
+section {
+	border-bottom: 1px dashed #d5d5d5;
+	display: block;
+	margin: 20px 0;
+	padding: 20px 10px 5px;
+}
+	section p{
+		font-size: 1.1em;
+		line-height: 1.7em;
+		margin: 10px 0 15px;
+	}
+	section p:last-child{
+		margin: 0;
+	}
+	section em{
+		border-bottom: 3px solid #87cf32;
+	}
