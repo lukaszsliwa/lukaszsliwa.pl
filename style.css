@@ -58,3 +58,18 @@ section {
 	section em{
 		border-bottom: 3px solid #87cf32;
 	}
+	.apps .app {
+		padding: 10px;
+		border-bottom: 1px dashed #eaeaea;
+	}
+	.apps .app .title {
+		font-size: 25px;
+		padding: 10px;
+	}
+	.apps .app .image img {
+		border: 1px solid #eaeaea;
+	}
+	.apps .app .technologies {
+		font-size: 10px;
+		font-weight: bold;
+	}
